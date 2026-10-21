@@ -1,0 +1,2 @@
+# BPSR_Module_Packet_spec_update_20261021
+BlueProtocol:Starresonance/星痕共鸣のモジュールパケット更新について
